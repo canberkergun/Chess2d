@@ -658,10 +658,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8ece07fdc73cff4481ff3bee6786f2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _tilePrefab: {fileID: 2488486735514465638, guid: b7ac76d06bf77794594e95b384a69b87, type: 3}
+  tilePrefab: {fileID: 2488486735514465638, guid: b7ac76d06bf77794594e95b384a69b87, type: 3}
   width: 8
   height: 8
-  _cam: {fileID: 519420028}
+  cam: {fileID: 519420028}
   pieceDatas:
   - {fileID: 11400000, guid: d0d2946fc9db238448d7a7d52bc95a56, type: 2}
   - {fileID: 11400000, guid: 3ac9bb6baae24bb4ea45f501ba665813, type: 2}
